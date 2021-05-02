@@ -3,6 +3,7 @@
 
 - 🔭 I’m currently working on [VinnTech](https://vinn.tech/). I'am CTO and Full Stack Developer
 
+Our job is to innovate technological solutions that produce disruptive changes. We are replicators and enhancers of good business. Pioneers in new technologies. All solutions go through the following phases imagine, design, create, test, validate and market.
 
 ## ⚡ Technologies
 
