@@ -5,6 +5,8 @@
 
 Our job is to innovate technological solutions that produce disruptive changes. We are replicators and enhancers of good business. Pioneers in new technologies. All solutions go through the following phases imagine, design, create, test, validate and market.
 
+We focus on new technologies
+
 ## ⚡ Technologies
 
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
