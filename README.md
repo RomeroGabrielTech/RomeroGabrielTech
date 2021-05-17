@@ -11,7 +11,7 @@ We focus on new technologies
 .
 .
 .
-## ⚡ Technologies
+## ⚡ Technologies, Blockchain, Cryptocurrency
 
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
