@@ -1,13 +1,7 @@
 # Hi. I'm Gabriel Romero
 
 
-- 🔭 I’m currently working on [VinnTech](https://vinn.tech/). I'am CTO and Full Stack Developer
-
-Our job is to innovate technological solutions that produce disruptive changes. We are replicators and enhancers of good business. Pioneers in new technologies. All solutions go through the following phases imagine, design, create, test, validate and market.
-.
-.
-.
-We focus on new technologies
+Qualified Programmer Analyst, and professional update inJava Applications Development Full Stack Trainee, awarded by the Digital TalentProgram for Chile. Several years of experience in languages and web page design, HTML,CSS, Java, Javacript, Python, Oracle SQL, Solidity, several of these in a self-taught way.
 .
 .
 .
