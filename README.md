@@ -8,7 +8,6 @@ Qualified Programmer Analyst, and professional update inJava Applications Develo
 ## ⚡ Technologies, Blockchain, Cryptocurrency
 
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![OracleSQL](https://img.shields.io/badge/-OracleSQL-black?style=flat-square&logo=Oraclesql)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
