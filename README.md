@@ -1,7 +1,7 @@
 # Hi. I'm Gabriel Romero
 
 
-Qualified Programmer Analyst, and professional update inJava Applications Development Full Stack Trainee, awarded by the Digital TalentProgram for Chile. Several years of experience in languages and web page design, HTML,CSS, Java, Javacript, Oracle SQL, Solidity, several of these in a self-taught way.
+Qualified Programmer Analyst, and professional update in Java Applications Development Full Stack Trainee, awarded by the Digital Talent Program for Chile. Several years of experience in languages and web page design, HTML, CSS, Java, Javacript, Oracle SQL, Solidity, several of these in a self-taught way.
 .
 .
 .
