@@ -7,7 +7,12 @@
 **GitHub:** [github.com/RomeroGabrielTech](https://github.com/RomeroGabrielTech)
 
 ## Resumen
-Ingeniero de Software con más de cuatro años de experiencia en diseño, desarrollo y mantenimiento de aplicaciones web usando Java y Node.js. Especializado en la implementación de soluciones de inteligencia artificial con tecnologías como TensorFlow, PyTorch, GPT, LLM y LangChain. Activo en Data Science y desarrollo de aplicaciones con LLMs, con un enfoque en técnicas avanzadas de Machine Learning y Big Data.
+Ingeniero de Software con más de cuatro años de experiencia en el diseño, desarrollo y mantenimiento de aplicaciones web utilizando Java y Node.js, y competencias en bases de datos SQL. Mi trayectoria incluye la implementación de soluciones de inteligencia artificial, utilizando tecnologías líderes como TensorFlow, PyTorch, GPT, LLM y LangChain, especializándome en el desarrollo de agentes inteligentes que optimizan procesos y mejoran la toma de decisiones en entornos empresariales.
+
+Mis habilidades interpersonales incluyen comunicación efectiva y capacidad para trabajar bien en equipo, cualidades que he desarrollado mediante la colaboración en proyectos variados. Me esfuerzo por mantenerme al día con las últimas tendencias y tecnologías en el campo del desarrollo de software, participando en seminarios y cursos cuando es posible. Actualmente, estoy completando un programa intensivo en Data Science y Desarrollo de Apps con LLMs, enfocado en técnicas avanzadas de Machine Learning y Big Data, preparándome para enfrentar los desafíos tecnológicos del futuro y continuar impulsando la innovación en el campo del desarrollo de software.
+
+Mi objetivo es continuar aprendiendo y adaptándome a nuevas herramientas y técnicas que puedan mejorar mi desempeño profesional y aportar valor a los proyectos en los que participo.
+
 
 ## Educación
 - **SQL para análisis de datos**, Desafío Latam, Junio 2024
