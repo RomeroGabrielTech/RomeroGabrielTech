@@ -1,112 +1,133 @@
+# 👨‍💻 Gabriel Enrique Romero Canelón
 
-# 👨‍💻 **Gabriel Enrique Romero Canelón**  
-**🌍 Location:** Santiago, Chile  
+🌍 **Location:** Santiago, Chile  
 📞 **Phone:** +56-9-32906479  
-✉️ **Email:** [ing.gabriel.romero@gmail.com](mailto:ing.gabriel.romero@gmail.com)  
+✉️ **Email:** ing.gabriel.romero@gmail.com  
 🔗 **LinkedIn:** [linkedin.com/in/gromerotech](https://linkedin.com/in/gromerotech)  
-💻 **GitHub:** [github.com/RomeroGabrielTech](https://github.com/RomeroGabrielTech)  
+💻 **GitHub:** [github.com/RomeroGabrielTech](https://github.com/RomeroGabrielTech)
 
 ---
 
-## 🚀 **About Me**  
-I am a passionate **Software Engineer** specializing in **Backend Development**, **Data Science**, and **AI-Driven Solutions**. With over 4 years of experience, I have developed scalable applications, implemented intelligent agents, and deployed robust backend architectures. My focus lies in creating impactful technological solutions that leverage cutting-edge innovations in **Artificial Intelligence (AI)**, **Blockchain**, and **Video Game Development**. 
+## 🚀 About Me
+I am a passionate Software Engineer specializing in Backend Development, Data Science, and AI-Driven Solutions. With over 18 years of experience, including more than 4 years focused on AI and ML, I have developed scalable applications, implemented intelligent agents with **LangChain** and **LangGraph**, and deployed robust backend architectures using **FastAPI** and **microservices**.  
 
-My expertise includes working with **Java, Node.js, Python, and Solidity**, building **RESTful APIs**, and implementing **LLM-based multi-agent systems**. I thrive on tackling complex challenges and constantly seek to push the boundaries of technology. I'm actively looking for opportunities to join forward-thinking teams that value growth, collaboration, and innovation.  
+My expertise includes working with **Python**, **Java**, **Node.js**, and **Solidity**, building **RESTful APIs**, and creating customized **AI chatbots with RAG (Retrieval-Augmented Generation)**. I have experience with **graph databases** like **Neo4j** and **Memgraph** for structured and unstructured data, and since May 2021, I have explored **AI image generation** using **VQGAN+CLIP** in Google Colab.  
 
----
-
-## 🛠️ **Technical Skills**  
-**Programming Languages**:  
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)  
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)  
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  
-
-**AI/ML Tools**:  
-![LangChain](https://img.shields.io/badge/-LangChain-black?style=flat-square)  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=tensorflow)  
-![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=pytorch)  
-![LLM](https://img.shields.io/badge/-LLM-black?style=flat-square)  
-
-**Blockchain & Web3**:  
-![Solidity](https://img.shields.io/badge/-Solidity-black?style=flat-square&logo=solidity)  
-![Ethereum](https://img.shields.io/badge/-Ethereum-black?style=flat-square&logo=ethereum)  
-
-**Databases**:  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)  
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)  
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-black?style=flat-square&logo=microsoft-sql-server)  
-
-**Cloud & DevOps**:  
-![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)  
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)  
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)  
+I thrive on tackling complex challenges, optimizing machine learning models, and pushing the boundaries of technology. I'm actively looking for opportunities to join forward-thinking teams that value growth, collaboration, and innovation in **AI**, **ML**, and **data-driven solutions**.
 
 ---
 
-## 💼 **Professional Experience**  
+## 🛠️ Technical Skills
+
+### Programming Languages:
+- Python  
+- Java  
+- Node.js  
+- Solidity  
+
+### AI/ML Tools:
+- LangChain  
+- LangGraph  
+- OpenAI API  
+- CrewAI  
+- Ollama  
+- VQGAN+CLIP  
+
+### Backend & Frameworks:
+- FastAPI  
+- NestJS  
+- Express  
+- Django  
+
+### Databases:
+- PostgreSQL  
+- MongoDB  
+- Neo4j  
+- Memgraph  
+
+### Cloud & DevOps:
+- AWS  
+- Docker  
+- GitHub Actions  
+
+### Other Tools:
+- Streamlit  
+- Shopify (Liquid, GraphQL)  
+- Eleven Labs  
+- Midjourney  
+- Leonardo AI  
+
+---
+
+## 💼 Professional Experience
+
 ### **Software Engineer (Freelance)**
-**📅 January 2024 – Present**  
-- **LLM-Based Multi-Agent Systems**: Designed and implemented multi-agent systems using **ChatGPT, Ollama, and CrewAI** to automate business workflows.  
-- **Local LLM Deployment**: Configured and fine-tuned local LLMs using **Llama 3.1 8B** to ensure privacy and avoid third-party dependencies.  
-- **Voice Cloning**: Leveraged **Eleven Labs** to create natural voice replicas for accessibility and UI/UX improvements.  
-- **AI Chatbots**: Built custom chatbots with **Streamlit and LangChain**, integrating personalized conversational flows.  
-- **AI-Driven Content Creation**: Applied **prompt engineering** with **Leonardo AI** and **Midjourney** to generate creative visual assets for clients.  
+📅 *January 2024 – Present*  
+- Designed and implemented **multi-agent systems** using ChatGPT, Ollama, and CrewAI to automate workflows.  
+- Configured and fine-tuned **local LLMs** (Llama 3.1 8B) for privacy-first AI deployment.  
+- Created **voice clones** for accessibility and UI/UX improvements with Eleven Labs.  
+- Built **AI chatbots** with Streamlit, LangChain, LangGraph, integrating **RAG** for dynamic conversations.  
+- Developed **AI-driven visual content** using Leonardo AI and Midjourney.  
+- Managed **graph data** in Neo4j and Memgraph.  
+- Supported **AI image generation research** with VQGAN+CLIP since 2021.
 
 ---
 
 ### **Backend Developer Analyst - Scotiabank**
-**📅 September 2023 – November 2023**  
+📅 *September 2023 – November 2023*  
 - Enhanced numeric systems for financial transactions, reducing errors by **95%**.  
-- Spearheaded the optimization of the incident management process, resulting in **faster problem resolution** and **improved system reliability**.  
+- Optimized incident management, improving reliability and response times.
 
 ---
 
-### **Backend Software Engineer - Alemana Seguros**  
-**📅 August 2022 – July 2023**  
-- Optimized the insurance claims processing system, cutting down processing times by **35%**.  
-- Redesigned application architecture to achieve a **20% performance boost** through modern development practices.  
+### **Backend Software Engineer - Alemana Seguros**
+📅 *August 2022 – July 2023*  
+- Optimized claims processing, reducing time by **35%**.  
+- Improved architecture, boosting performance by **20%**.
 
 ---
 
-### **Blockchain & Metaverse Developer - Disruptive Studio**  
-**📅 April 2022 – July 2022**  
-- Developed and deployed **smart contracts** using **Solidity**.  
-- Facilitated the creation of blockchain-enabled Web3 experiences, enhancing user interaction.  
+### **Blockchain & Metaverse Developer - Disruptive Studio**
+📅 *April 2022 – July 2022*  
+- Developed **smart contracts** in Solidity.  
+- Built **Web3 experiences** integrating blockchain for interactive environments.
 
 ---
 
-### **Backend Developer / Shopify Expert - Samsonite**  
-**📅 December 2021 – April 2022**  
-- Built backend architecture for **Samsonite's e-commerce platform** using **Shopify's Liquid, GraphQL, and Node.js**.  
-- Reduced transaction processing time, enhancing **payment system efficiency** and customer satisfaction.  
+### **Backend Developer / Shopify Expert - Samsonite**
+📅 *December 2021 – April 2022*  
+- Built **backend architecture** using Shopify Liquid, GraphQL, and Node.js.  
+- Enhanced transaction systems, improving efficiency and satisfaction.
 
 ---
 
-## 📚 **Education**  
-- **Statistical Analysis with Python**, Desafío Latam (November 2024)  
-- **Python Programming for Data Analysis**, Desafío Latam (August 2024)  
-- **SQL for Data Analysis**, Desafío Latam (June 2024)  
-- **Backend Development with NestJS**, Platzi (May 2024)  
-- **AWS Cloud Foundations**, AWS Academy (July 2022)  
-- **Civil Engineer**, Universidad Central de Venezuela (July 2005)  
+## 📚 Education
+- **Statistical Analysis with Python**, Desafío Latam — *Nov 2024*  
+- **Python Programming for Data Analysis**, Desafío Latam — *Aug 2024*  
+- **SQL for Data Analysis**, Desafío Latam — *Jun 2024*  
+- **Backend Development with NestJS**, Platzi — *May 2024*  
+- **AWS Cloud Foundations**, AWS Academy — *Jul 2022*  
+- **Civil Engineer**, Universidad Central de Venezuela — *Jul 2005*
 
 ---
 
-## 🌐 **Projects**
-### 🔥 **Intelligent Agent Framework (IAF)**
-- **Description**: A multi-agent system leveraging **LLMs (Large Language Models)** for automated business process optimization.  
-- **Technologies**: **Python, ChatGPT, Llama, Ollama, LangChain**  
-- **Key Features**: Adaptive workflows, fine-tuned agents, and multi-tasking capabilities.  
+## 🌐 Projects
 
-### 🎮 **Crypto Mining Telegram Game - Coppercoin**  
-- **Description**: Interactive game for mining and trading copper-inspired cryptocurrency.  
-- **Technologies**: **Telegram API, Node.js, Blockchain, Smart Contracts**  
-- **Key Features**: Copper mining, trading mechanics, and a simulated cryptocurrency economy.  
+### 🔥 Intelligent Agent Framework (IAF)
+**Description:** Multi-agent system leveraging LLMs for automated business process optimization.  
+**Technologies:** Python, ChatGPT, Llama, Ollama, LangChain  
+**Key Features:** Adaptive workflows, fine-tuned agents, multi-tasking capabilities.
 
 ---
 
-## 🔗 **Let's Connect!**  
-📧 [ing.gabriel.romero@gmail.com](mailto:ing.gabriel.romero@gmail.com)  
-🔗 [LinkedIn](https://linkedin.com/in/gromerotech)  
-💻 [GitHub](https://github.com/RomeroGabrielTech)  
+### 🎮 Crypto Mining Telegram Game - Coppercoin
+**Description:** Interactive Telegram game for mining and trading copper-inspired cryptocurrency.  
+**Technologies:** Telegram API, Node.js, Blockchain, Smart Contracts  
+**Key Features:** Mining, trading, and simulated cryptocurrency economy.
+
+---
+
+### 🖼 AI Image Generation Research
+**Description:** Supported research on creating images from text using AI.  
+**Technologies:** VQGAN+CLIP, Google Colab  
+**Key Features:** Text-to-image generation for creative and visual applications (since May 2021).
