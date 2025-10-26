@@ -102,6 +102,7 @@ I thrive on tackling complex challenges, optimizing machine learning models, and
 ---
 
 ## 📚 Education
+- **Data Analys with Python, Desafío Latam - *Jan 2025*
 - **Statistical Analysis with Python**, Desafío Latam — *Nov 2024*  
 - **Python Programming for Data Analysis**, Desafío Latam — *Aug 2024*  
 - **SQL for Data Analysis**, Desafío Latam — *Jun 2024*  
