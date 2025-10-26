@@ -8,10 +8,11 @@
 
 ---
 
-## 🚀 About Me
-I am a passionate Software Engineer specializing in Backend Development, Data Science, and AI-Driven Solutions. With over 18 years of experience, including more than 4 years focused on AI and ML, I have developed scalable applications, implemented intelligent agents with **LangChain** and **LangGraph**, and deployed robust backend architectures using **FastAPI** and **microservices**.  
+## 🧑‍💻 About Me
 
-My expertise includes working with **Python**, **Java**, **Node.js**, and **Solidity**, building **RESTful APIs**, and creating customized **AI chatbots with RAG (Retrieval-Augmented Generation)**. I have experience with **graph databases** like **Neo4j** and **Memgraph** for structured and unstructured data, and since May 2021, I have explored **AI image generation** using **VQGAN+CLIP** in Google Colab.  
+I am a passionate Software Engineer specializing in Backend Development, Data Science, and AI-Driven Solutions. With over 18 years of experience, including more than 4 years focused on AI and ML, I have developed scalable applications, implemented intelligent agents with **LangChain** and **LangGraph**, and deployed robust backend architectures using **FastAPI** and **microservices**.
+
+My expertise includes working with **Python**, **Java**, **Node.js**, and **Solidity**, building **RESTful APIs**, and creating customized **AI chatbots with RAG** (Retrieval-Augmented Generation). I have extensive experience with **Pydantic** to enforce **structured output** and **data validation**, which is critical for B2B transactions. I also work with **graph databases** like **Neo4j** and **Memgraph** for structured and unstructured data, and since May 2021, I have explored **AI image generation** using **VQGAN+CLIP** in Google Colab.
 
 I thrive on tackling complex challenges, optimizing machine learning models, and pushing the boundaries of technology. I'm actively looking for opportunities to join forward-thinking teams that value growth, collaboration, and innovation in **AI**, **ML**, and **data-driven solutions**.
 
@@ -102,7 +103,8 @@ I thrive on tackling complex challenges, optimizing machine learning models, and
 ---
 
 ## 📚 Education
-- **Data Analys with Python, Desafío Latam - *Jan 2025*
+- **CS50's Introduction to Computer Science (CS50x)**, Harvard University (via edX) — Ongoing (Oct 2025)
+- **Data Analys with Python**, Desafío Latam - *Jan 2025*
 - **Statistical Analysis with Python**, Desafío Latam — *Nov 2024*  
 - **Python Programming for Data Analysis**, Desafío Latam — *Aug 2024*  
 - **SQL for Data Analysis**, Desafío Latam — *Jun 2024*  
