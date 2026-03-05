@@ -3,7 +3,7 @@
 🌍 **Location:** Santiago, Chile  
 📞 **Phone:** +56-9-32906479  
 ✉️ **Email:** ing.gabriel.romero@gmail.com  
-🔗 **LinkedIn:** [linkedin.com/in/gromerotech](https://linkedin.com/in/gromerotech)  
+🔗 **LinkedIn:** [linkedin.com/in/gaenroca](https://linkedin.com/in/gaenroca)  
 💻 **GitHub:** [github.com/RomeroGabrielTech](https://github.com/RomeroGabrielTech)
 
 ---
