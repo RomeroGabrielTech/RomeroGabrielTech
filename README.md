@@ -103,7 +103,6 @@ I thrive on tackling complex challenges, optimizing machine learning models, and
 ---
 
 ## 📚 Education
-- **CS50's Introduction to Computer Science (CS50x)**, Harvard University (via edX) — Ongoing (Oct 2025)
 - **Data Analys with Python**, Desafío Latam - *Jan 2025*
 - **Statistical Analysis with Python**, Desafío Latam — *Nov 2024*  
 - **Python Programming for Data Analysis**, Desafío Latam — *Aug 2024*  
